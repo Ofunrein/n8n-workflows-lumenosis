@@ -31,7 +31,7 @@
       ],
       "parameters": {
         "text": "It's Wednesday, my dudes!\nhttps://i.kym-cdn.com/entries/icons/original/000/020/016/wednesdaymydudeswide.jpg",
-        "webhookUri": "https://discordapp.com/api/webhooks/756967134353162281/wEzyl5MrY2FqHdp5mb8npM5qhp0MVAe9X8SiIA-UMUPpv52FwaOeZGWTtlfQSs-MV3eB"
+        "webhookUri": "={{ $env.DISCORD_WEBHOOK_URL }}"
       },
       "typeVersion": 1
     },
@@ -64,7 +64,7 @@
       ],
       "parameters": {
         "text": "It's Friday, Friday\nGotta get down on Friday!\nhttps://tenor.com/view/rebecca-black-friday-tgif-gif-4051598",
-        "webhookUri": "https://discordapp.com/api/webhooks/756967134353162281/wEzyl5MrY2FqHdp5mb8npM5qhp0MVAe9X8SiIA-UMUPpv52FwaOeZGWTtlfQSs-MV3eB"
+        "webhookUri": "={{ $env.DISCORD_WEBHOOK_URL }}"
       },
       "typeVersion": 1
     },
@@ -97,7 +97,7 @@
       ],
       "parameters": {
         "text": "And with this, I sleep. Good night Pogger friends :)\nhttps://cdn.discordapp.com/attachments/756602216621539409/757054027518443600/93109046_836460460092895_6176715527851028509_n.jpg",
-        "webhookUri": "https://discordapp.com/api/webhooks/756967134353162281/wEzyl5MrY2FqHdp5mb8npM5qhp0MVAe9X8SiIA-UMUPpv52FwaOeZGWTtlfQSs-MV3eB"
+        "webhookUri": "={{ $env.DISCORD_WEBHOOK_URL }}"
       },
       "typeVersion": 1
     }
